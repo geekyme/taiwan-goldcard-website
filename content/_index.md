@@ -1,8 +1,10 @@
 +++
 title = "Taiwan Gold Card"
+outputs = ["html", "amp"]
 +++
 
 {{< section "newApplicant" >}}
+
 ## Applying for the Gold Card?
 
 - All the answers about the Gold Card
@@ -15,6 +17,7 @@ title = "Taiwan Gold Card"
 {{< /section >}}
 
 {{< section "existingApplicant" >}}
+
 ## Already a Gold Card Holder?
 
 - Access to our chat group where we help each other
@@ -27,6 +30,7 @@ title = "Taiwan Gold Card"
 {{< /section >}}
 
 [//]: # "latestNews is modified by news_display.js"
+
 {{< section "latestNews" >}}{{< /section >}}
 
 {{< section "homePicture" >}}
