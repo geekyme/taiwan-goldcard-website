@@ -1,4 +1,4 @@
-baseURL = "https://geekyme.github.io/taiwan-goldcard-website/"
+baseURL = "https://shawn-taiwangoldcard.netlify.app/"
 title = "Taiwan Gold Card - Taiwan Foreign Talent Community"
 enableRobotsTXT = true
 theme = "compose"
